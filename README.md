@@ -1,27 +1,33 @@
-# 恒烈 · Henglie
+# 嗨，我是恒烈
 
-逆向工程 / 程序保护 / Windows 安全工具。
+Henglie / EternalBlaze，信息安全专业在读。
 
-- 方向：Windows 逆向、程序保护、CTF 工具
-- 技术栈：C/C++、Python、TypeScript、Kotlin
+平时打 CTF，Reverse 和 Misc 打得多；也写点 Windows 小工具，偶尔研究一些没人研究的技术。
 
-## 项目
+## 最近在做
 
-| 项目 | 介绍 | 语言 |
-|---|---|---|
-| [EBCTFCodeBox](https://github.com/Henglie/EBCTFCodeBox) | 跨平台 CTF 编解码与密码学工具箱，几百个算法在浏览器本地运行，零外发 | JavaScript |
-| [ElegantHLK](https://github.com/Henglie/ElegantHLK) | NTFS 硬链接批量创建与管理工具，用于运维与文件备份 | C++ |
-| [EB-Anti-Virtualization-VM](https://github.com/Henglie/EB-Anti-Virtualization-VM) | 调试级去虚拟化虚拟机，面向逆向工程与病毒分析 | — |
-| [ContextMenuMaster](https://github.com/Henglie/ContextMenuMaster) | Windows 右键菜单可视化管理，操作前自动备份注册表 | C++ |
-| [AkashaVeil](https://github.com/Henglie/AkashaVeil) | 本地窗口防捕获与水印管理，单文件、纯本地 | C++ |
-| [AIReBoxConsole](https://github.com/Henglie/AIReBoxConsole) | 逆向工具箱中控台，工具账本驱动 AI skills 与 MCP | Python |
+- [凌空罩 AkashaVeil](https://github.com/Henglie/AkashaVeil)：纯本地的 Windows 窗口防捕获与水印工具
+- [EBCTFCodeBox](https://github.com/Henglie/EBCTFCodeBox)：CTF 编解码与密码学工具箱
+- [ElegantHLK](https://github.com/Henglie/ElegantHLK)：NTFS 硬链接批量创建与管理
 
-## 数据
+## 其它作品
 
-![followers](https://img.shields.io/github/followers/Henglie?style=flat-square&label=followers)
-![EBCTFCodeBox stars](https://img.shields.io/github/stars/Henglie/EBCTFCodeBox?style=flat-square&label=EBCTFCodeBox%20stars)
-![ElegantHLK stars](https://img.shields.io/github/stars/Henglie/ElegantHLK?style=flat-square&label=ElegantHLK%20stars)
+- [OlderShellsCK](https://github.com/Henglie/OlderShellsCK)：老壳分析与脱壳工作台
+- [ContextMenuMaster](https://github.com/Henglie/ContextMenuMaster)：Windows 右键菜单管理器
+- [EB-Anti-Virtualization-VM](https://github.com/Henglie/EB-Anti-Virtualization-VM)：调试级去虚拟化虚拟机
+- [Sealchest](https://github.com/Henglie/Sealchest)：安卓上无 root 加载 VeraCrypt 容器
+- [WhatsInYourClipboard](https://github.com/Henglie/WhatsInYourClipboard)：剪贴板内容透视
+- [FairySave](https://github.com/Henglie/FairySave)：多软件自动保存中枢
 
-## 交流
+## 关于我
 
-问题与建议请优先走对应仓库的 Issues。
+- 主业信息安全，CTF 里主要打 Reverse 和 Misc
+- 幻梦开发者，霜晨归档资源站站长
+- 常用 C++、Java、Python、HTML/CSS/JS
+- 爱好挺杂：ACGN、资源收集、Vocaloid，偶尔做点平面设计
+- 博客：[eb.xbdqwq.com](https://eb.xbdqwq.com/)
+- 邮箱：[Henglie@vip.qq.com](mailto:Henglie@vip.qq.com)
+
+## 赞助
+
+如果这些工具帮到了你，可以请我喝杯可乐：[赞助与投喂](SPONSOR.md)
