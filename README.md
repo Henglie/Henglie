@@ -26,7 +26,6 @@ Henglie / EternalBlaze，信息安全专业在读。
 - 常用 C++、Java、Python、HTML/CSS/JS
 - 爱好挺杂：ACGN、资源收集、Vocaloid，偶尔做点平面设计
 - 博客：[eb.xbdqwq.com](https://eb.xbdqwq.com/)
-- 邮箱：[Henglie@vip.qq.com](mailto:Henglie@vip.qq.com)
 
 ## 赞助
 

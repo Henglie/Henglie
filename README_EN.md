@@ -1,22 +1,32 @@
-# Henglie
+# Hi, I'm Henglie
 
-Reverse engineering, software protection, and Windows security tooling.
+Henglie / EternalBlaze, studying information security.
 
-- Focus: Windows reverse engineering, anti-debugging and anti-VM, packer and protector detection, CTF tooling
-- Stack: C/C++, Python, TypeScript, Kotlin
+I play CTF (mostly Reverse and Misc), build small Windows tools, and occasionally dig into things nobody else is looking at.
 
-## Projects
+## Currently working on
 
-| Project | Description | Language |
-|---|---|---|
-| [EBCTFCodeBox](https://github.com/Henglie/EBCTFCodeBox) | Cross-platform CTF encoding and cryptography toolbox; algorithms run locally in the browser | JavaScript |
-| [ElegantHLK](https://github.com/Henglie/ElegantHLK) | Batch NTFS hard link creation and management for operations and backups | C++ |
-| [EB-Anti-Virtualization-VM](https://github.com/Henglie/EB-Anti-Virtualization-VM) | Debug-grade de-virtualized VM for reverse engineering and malware analysis | — |
-| [ContextMenuMaster](https://github.com/Henglie/ContextMenuMaster) | Visual manager for Windows context menus with automatic registry backups | C++ |
-| [AkashaVeil](https://github.com/Henglie/AkashaVeil) | Local window capture exclusion and watermarking, single-file and offline | C++ |
-| [AIReBoxConsole](https://github.com/Henglie/AIReBoxConsole) | Control console for a reverse-engineering toolbox, driven by a tool registry for AI skills and MCP | Python |
+- [AkashaVeil](https://github.com/Henglie/AkashaVeil): local-only window capture exclusion and watermarking for Windows
+- [EBCTFCodeBox](https://github.com/Henglie/EBCTFCodeBox): CTF encoding and cryptography toolbox
+- [ElegantHLK](https://github.com/Henglie/ElegantHLK): batch NTFS hard link creation and management
 
-## Links
+## Other projects
 
-- [中文主页](README.md)
-- Please use the Issues page of each repository for questions and bug reports.
+- [OlderShellsCK](https://github.com/Henglie/OlderShellsCK): old packer analysis and unpacking workbench
+- [ContextMenuMaster](https://github.com/Henglie/ContextMenuMaster): Windows context menu manager
+- [EB-Anti-Virtualization-VM](https://github.com/Henglie/EB-Anti-Virtualization-VM): debug-grade de-virtualized VM
+- [Sealchest](https://github.com/Henglie/Sealchest): VeraCrypt containers on Android without root
+- [WhatsInYourClipboard](https://github.com/Henglie/WhatsInYourClipboard): clipboard content inspector
+- [FairySave](https://github.com/Henglie/FairySave): auto-save hub for apps that do not support it
+
+## About
+
+- Information security; CTF Reverse and Misc
+- Huanmeng developer; Shuangchen archive site maintainer
+- C++, Java, Python, HTML/CSS/JS
+- ACGN, resource collecting, Vocaloid, occasional graphic design
+- Blog: [eb.xbdqwq.com](https://eb.xbdqwq.com/)
+
+## Sponsor
+
+If these tools helped you, you can buy me a Coke: [Sponsor](SPONSOR.md)
